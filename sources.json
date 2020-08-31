@@ -1,0 +1,193 @@
+[
+    {
+        "name" : "Baby Bella Mushrooms",
+        "ounces" : 6,
+        "calories" : 40,
+        "fats" : 0,
+        "netCarbs" : 4,
+        "protein" : 6,
+        "catId" : "veggiesAndFruits"
+    },
+    {
+        "name" : "Broccoli",
+        "ounces" : 6,
+        "calories" : 58,
+        "fats" : 1,
+        "netCarbs" : 7,
+        "protein" : 5,
+        "catId" : "veggiesAndFruits"
+    },
+    {
+        "name" : "Spinach",
+        "ounces" : 6,
+        "calories" : 24,
+        "fats" : 0,
+        "netCarbs" : 1,
+        "protein" : 3,
+        "catId" : "veggiesAndFruits"
+    },
+    {
+        "name" : "Green Beans",
+        "ounces" : 6,
+        "calories" : 26,
+        "fats" : 0,
+        "netCarbs" : 4,
+        "protein" : 2,
+        "catId" : "veggiesAndFruits"
+    },
+    {
+        "name" : "Raspberries",
+        "ounces" : 6,
+        "calories" : 88,
+        "fats" : 1,
+        "netCarbs" : 8,
+        "protein" : 2,
+        "catId" : "veggiesAndFruits"
+    },
+    {
+        "name" : "Blackberries",
+        "ounces" : 6,
+        "calories" : 73,
+        "fats" : 1,
+        "netCarbs" : 8,
+        "protein" : 2,
+        "catId" : "veggiesAndFruits"
+    },
+    {
+        "name" : "Cottage Cheese",
+        "ounces" : 1,
+        "calories" : 25,
+        "fats" : 1,
+        "netCarbs" : 1,
+        "protein" : 4,
+        "catId" : "dairy"
+    },
+    {
+        "name" : "Greek yogurt",
+        "ounces" : 1,
+        "calories" : 28,
+        "fats" : 1,
+        "netCarbs" : 1,
+        "protein" : 3,
+        "catId" : "dairy"
+    },
+    {
+        "name" : "Aged Cheddar",
+        "ounces" : 1,
+        "calories" : 110,
+        "fats" : 9,
+        "netCarbs" : 0,
+        "protein" : 7,
+        "catId" : "dairy"
+    },
+    {
+        "name" : "Bacon",
+        "ounces" : 4,
+        "calories" : 519,
+        "fats" : 51,
+        "netCarbs" : 0,
+        "protein" : 13,
+        "catId" : "protein"
+    },
+    {
+        "name" : "Chicken breast",
+        "ounces" : 4,
+        "calories" : 125,
+        "fats" : 1,
+        "netCarbs" : 0,
+        "protein" : 26,
+        "catId" : "protein"
+    },
+    {
+        "name" : "Pork chop",
+        "ounces" : 4,
+        "calories" : 286,
+        "fats" : 18,
+        "netCarbs" : 0,
+        "protein" : 30,
+        "catId" : "protein"
+    },
+    {
+        "name" : "Ground beef",
+        "ounces" : 4,
+        "calories" : 280,
+        "fats" : 23,
+        "netCarbs" : 0,
+        "protein" : 20,
+        "catId" : "protein"
+    },
+    {
+        "name" : "Salmon",
+        "ounces" : 4,
+        "calories" : 236,
+        "fats" : 15,
+        "netCarbs" : 0,
+        "protein" : 23,
+        "catId" : "protein"
+    },
+    {
+        "name" : "Almond butter",
+        "ounces" : 1,
+        "calories" : 180,
+        "fats" : 16,
+        "netCarbs" : 4,
+        "protein" : 6,
+        "catId" : "protein"
+    },
+    {
+        "name" : "Ribeye Steak",
+        "ounces" : 4,
+        "calories" : 330,
+        "fats" : 25,
+        "netCarbs" : 0,
+        "protein" : 27,
+        "catId" : "protein"
+    },
+    {
+        "name" : "Almonds",
+        "ounces" : 2,
+        "calories" : 328,
+        "fats" : 28,
+        "netCarbs" : 5,
+        "protein" : 12,
+        "catId" : "nuts_seeds_baking"
+    },
+    {
+        "name" : "Pecans",
+        "ounces" : 2,
+        "calories" : 392,
+        "fats" : 41,
+        "netCarbs" : 3,
+        "protein" : 5,
+        "catId" : "nuts_seeds_baking"
+    },
+    {
+        "name" : "Coconut flour",
+        "ounces" : 2,
+        "calories" : 120,
+        "fats" : 4,
+        "netCarbs" : 6,
+        "protein" : 4,
+        "catId" : "nuts_seeds_baking"
+    },
+    {
+        "name" : "Chia seed",
+        "ounces" : 2,
+        "calories" : 256,
+        "fats" : 17,
+        "netCarbs" : 3,
+        "protein" : 8,
+        "catId" : "nuts_seeds_baking"
+    },
+    {
+        "name" : "Hazelnuts",
+        "ounces" : 2,
+        "calories" : 356,
+        "fats" : 36,
+        "netCarbs" : 3,
+        "protein" : 9,
+        "catId" : "nuts_seeds_baking"
+    }
+    
+]
+
