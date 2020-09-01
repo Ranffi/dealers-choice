@@ -4,7 +4,7 @@ const SelectedFood = ({ selectedCat }) => {
     return (
         <>
             <div>
-                <img src={selectedCat.picUrl} className='centerImg' />
+                <img src={selectedCat.picUrl} className='centerImg img-fluid img-thumbnail' />
             </div>
             <div class='container'>
                 <div class='column'>

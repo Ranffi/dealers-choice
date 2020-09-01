@@ -1,17 +1,24 @@
 #header {
-    background : url('protein.jpg');
+    /* background : url('58e1d534-494d-4147-bb3b-6b65a8320455_200x200.png'); */
     background-repeat: no-repeat;
     background-size: cover;
 }
 
-.display-3 {
-    color: rgba(0, 0, 0, 0.589);
-}
 .lead{
     color: rgb(0, 0, 0);
 }
 
 
+
+nav{
+  background-color: rgb(245, 246, 214);
+}
+.fa-utensils {
+  color: rgb(0, 0, 0);
+}
+.navbar-brand {
+  color: rgba(0, 0, 0, 0.657);
+}
 .centerImg {
     display: block;
     margin-left: auto;

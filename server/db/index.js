@@ -16,22 +16,22 @@ const syncAndSeed = async () => {
     const protien = await Category.create({
         name : 'Protein',
         picUrl : 'proteinPic.jpg',
-        description : ''
+        description : 'Not consuming your protein is a big missed steak! Protein is a macronutrient that is essential to building muscle mass. It is commonly found in animal products, though is also present in other sources, such as nuts and legumes.'
     })
     const veggiesAndFruits = await Category.create({
         name : 'Veggies and Fruits',
         picUrl : 'fruit-and-veg.jpg',
-        description : ''
+        description : `Lettuce not forget our fruits and veggies. Fruits and vegetables contain important vitamins and minerals. They also contain fiber. There are many varieties of fruit and vegetables available and many ways to prepare, cook and serve them. A diet high in fruit and vegetables can help protect you against cancer, diabetes and heart disease.`
     })
     const dairy = await Category.create({
         name : 'Dairy',
         picUrl : 'dairy.jpg',
-        description : ''
+        description : 'Be Legendairy! Consuming dairy products provides health benefits — especially improved bone health. Foods in the Dairy Group provide nutrients that are vital for health and maintenance of your body. These nutrients include calcium, potassium, vitamin D, and protein.'
     })
     const nuts_seeds_baking = await Category.create({
         name : 'Nut/Seed Baking',
         picUrl : 'nutsAndSeeds.jpeg',
-        description : ''
+        description : `Are You Nuts? You are nuts if you don't eat these nutritious powerfoods Nuts and seeds are good sources of protein, healthy fats, fibers, vitamins and minerals`
     })
 
     // Sources
