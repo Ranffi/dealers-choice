@@ -1,6 +1,6 @@
 const db = require('./db')
 const fs = require('fs')
-const {Category, Source} = require('./models/Example')
+const {Category, Source} = require('./models/defined')
 const sources = JSON.parse(fs.readFileSync('sources.json', 'utf8'))
 
 
@@ -15,19 +15,23 @@ const syncAndSeed = async () => {
 
     const protien = await Category.create({
         name : 'Protein',
-        picUrl : 'protein.jpg'
+        picUrl : 'proteinPic.jpg',
+        description : ''
     })
     const veggiesAndFruits = await Category.create({
         name : 'Veggies and Fruits',
-        picUrl : 'fruit-and-veg.jpg'
+        picUrl : 'fruit-and-veg.jpg',
+        description : ''
     })
     const dairy = await Category.create({
         name : 'Dairy',
-        picUrl : 'dairy.jpg'
+        picUrl : 'dairy.jpg',
+        description : ''
     })
     const nuts_seeds_baking = await Category.create({
         name : 'Nut/Seed Baking',
-        picUrl : 'nutsAndSeeds.jpeg'
+        picUrl : 'nutsAndSeeds.jpeg',
+        description : ''
     })
 
     // Sources

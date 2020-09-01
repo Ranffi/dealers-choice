@@ -11,6 +11,9 @@ const Category = db.define('category', {
     },
     picUrl : {
         type : Sequelize.STRING
+    },
+    description : {
+        type : Sequelize.STRING
     }
 })
 
